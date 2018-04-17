@@ -1,2 +1,3 @@
-# mac0499
-mac0499 ime-usp 2018
+# MAC0499 - Trabalho de Formatura Supervisionado
+
+https://linux.ime.usp.br/~gabrielrc/mac0499/
